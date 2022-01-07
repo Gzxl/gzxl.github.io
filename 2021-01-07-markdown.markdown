@@ -1,3 +1,8 @@
+---
+layout: post
+title: Blogging Like a Hacker
+---
+
 基本上来讲，Markdown 就是普通的文字加上 # 或者 * 等符号。
 标题
 # 这是1级标题
