@@ -1,3 +1,3 @@
 # hello world
 
-## first page
+## [first page](info.md)
