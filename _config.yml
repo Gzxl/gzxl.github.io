@@ -23,7 +23,7 @@ timezone:
 
 title: 阿鑫的博客                          # the main title
 
-tagline: the blog of Gzxl   # it will display as the sub-title
+tagline: Gzxl's blog    # it will display as the sub-title
 
 description: >-                        # used by seo meta and the atom feed
   A minimal, responsive, and powerful Jekyll theme for presenting professional writing.
